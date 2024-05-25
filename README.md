@@ -10,9 +10,10 @@ It is advisable to learn in a given sequence for better understanding.
 3. Logistic Regression class logic implementation
    notebook: logistic-regression-class-code.ipynb
 
-4. Softmax or Multinomial Regression for multiclass-containing dataset
-   notebook: Softmax_Multinomial_Regression_Applied.ipynb
-   
+   Notes: Logistic_Regression notes.pdf
 
-note:-This repository is under heavy development,
-notes is upcoming today
+5. Softmax or Multinomial Regression for multiclass-containing dataset
+   notebook: Softmax_Multinomial_Regression_Applied.ipynb
+   Notes: Softmax_Multinomial_Regression notes.pdf
+
+
