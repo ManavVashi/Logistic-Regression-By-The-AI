@@ -10,7 +10,7 @@ It is advisable to learn in a given sequence for better understanding.
 3. Logistic Regression class logic implementation
    notebook: logistic-regression-class-code.ipynb
 
-   Notes: Logistic_Regression notes.pdf
+   Notes: Logistic Regression notes.pdf
 
 5. Softmax or Multinomial Regression for multiclass-containing dataset
    notebook: Softmax_Multinomial_Regression_Applied.ipynb
